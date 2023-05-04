@@ -1,9 +1,8 @@
 function About() {
     return(
-        // <>
-        //     <Toolbar />
-            <h1>About!</h1>
-        // </>
+        <div className="flex">
+            
+        </div>
     )
 }
 
